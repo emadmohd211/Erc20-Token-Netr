@@ -1,0 +1,16 @@
+{
+  "name": "netratoken",
+  "version": "1.0.0",
+  "description": "Development of employee reward token",
+  "author": "Emad",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  },
+  "scripts": {
+    "dev": "lite-server"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.2",
+    "chai": "^4.3.6"
+  }
+}
